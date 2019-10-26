@@ -1,4 +1,3 @@
-defaults:
-    theme: jekyll-theme-cayman
-    title: BRADEN NOAH COOK
-    description: My Personal Website. Take a look!
+theme: jekyll-theme-cayman
+title: BRADEN NOAH COOK
+description: My Personal Website. Take a look!
