@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BRADEN NOAH COOK
+title: Braden Cook
 ---
 # Welcome to my website!
 
@@ -9,4 +9,4 @@ title: BRADEN NOAH COOK
 I am currently a graduating senior at Massachusetts Institute of Technology
 studying Electrical Engineering and Computer Science...
 
-![MIT](https://github.com/bncook/bncook.github.io/blob/master/mit-campus.jpg)
+![MIT](/mit-campus.jpg)
