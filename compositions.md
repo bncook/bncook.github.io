@@ -15,6 +15,10 @@ and compose a piece of music for our final project. Below are the two
 compositions that I made for my Harmony and Counterpoint Classes.
 
 # First Composition - Four String Quartet in ABA pattern
-
+<audio controls>
+  <source src="21M.301_Final_Project.ogg" type="audio/ogg">
+  <source src="21M.301_Final_Project.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 # Second Composition - Theme and Variations for Piano

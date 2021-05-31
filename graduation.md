@@ -27,15 +27,15 @@ title: Braden Cook's Graduation
 # The Graduate
 Braden Cook (that's me!) is graduating from **Massachusetts Institute of Technology**
 with a __Bachelor's of Science in Electrical Engineering and Computer Science__
-with a __Humanities Concentration in Music__
+with a __Humanities Concentration in Music__.
 
 # Invitations
-[Invitiation](/mit-campus.jpg)
+<!--[Invitiation](/mit-campus.jpg)-->
 If you would like me to send you a physical graduation announcement, feel free
 to send me an email at bncook@mit.edu!
 
 # Acknowledgements
-### _First and Foremost_
+### First and Foremost
 I would like to thank my Lord and Savior, Jesus Christ, 
 without whom any of this would be possible.
 
