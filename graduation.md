@@ -12,17 +12,17 @@ title: Braden Cook's Graduation
     }
 </style>
 
-<h1 id="you-are-cordially-invited-to-the-mit-2021-commencement" style="text-align: center"><strong>You are cordially invited to the MIT 2021 Commencement</strong></h1>
+<h1 id="you-are-cordially-invited-to-the-mit-2021-commencement" style="text-align: center"><strong>You are cordially invited to the MIT 2021 Commencement!</strong></h1>
 
 <div style="text-align: center"> <strong>Celebrating the Graduation of Braden Cook</strong> </div> 
 
 <div style="text-align: center"> <strong>Friday, June 4, 2021</strong> </div> 
 
-<div style="text-align: center"> <strong>Virtually at this link: <a href="url">https://commencement.mit.edu/webcast</a> </strong> </div>
+<div style="text-align: center"> <strong>Virtually at this link: <a href="https://commencement.mit.edu/webcast">MIT Commencement 2021</a> </strong> </div>
 
-<img class=grad src="/braden_grad.jpg" alt=BradenGrad1 style="width:55%">
+<img class=grad src="/braden_grad.jpg" alt=BradenGrad1 style="width:65%">
 
-See the invite [here](https://youtu.be/dUMr4UTgVHw)
+* * *
 
 # The Graduate
 Braden Cook (that's me!) is graduating from **Massachusetts Institute of Technology**
@@ -35,9 +35,9 @@ If you would like me to send you a physical graduation announcement, feel free
 to send me an email at bncook@mit.edu!
 
 # Acknowledgements
-### First and Foremost
+### _First and Foremost_
 I would like to thank my Lord and Savior, Jesus Christ, 
-without whom any of this would be possible
+without whom any of this would be possible.
 
 ### My Family
 I would especially like to thank my parents for investing so much of their time
@@ -45,7 +45,7 @@ and money in my education, and encouraging me to put God first and to always put
 forward my very best. Thank you to my siblings for always beings supportive of me
 and for giving me amazing examples to look up to. Thank you to my amazing grandparents - 
 Nana and my grandfather (Papa), Grandma Becky and Grandpa Dave, and Grandpa LeRoy - 
-for every call, text, card, and for your outpouring of love during my time in college.\
+for every call, text, card, and for your outpouring of love during my time in college.
 
 Thank you also to my Uncle A, Aunty Keiko, and my cousin Alonzo for always being there
 for me and my siblings and welcoming us with open arms. To my Uncle Sean, Aunty
