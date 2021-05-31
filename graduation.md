@@ -3,13 +3,24 @@ layout: default
 title: Braden Cook's Graduation
 ---
 
-# **You are cordially invited to the MIT 2021 Commencement**
+<style>
+    .grad {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    }
+</style>
 
-**Celebrating the graduation of Braden Cook**\
-**When**: June 4th\
-**Where**: Virtually, at this link: [MIT 2021 Commencement](https://commencement.mit.edu/webcast)
+<h1 id="you-are-cordially-invited-to-the-mit-2021-commencement" style="text-align: center"><strong>You are cordially invited to the MIT 2021 Commencement</strong></h1>
 
-<img src="/braden_grad.jpg" width=500 align=top alt=BradenGrad1>
+<div style="text-align: center"> <strong>Celebrating the Graduation of Braden Cook</strong> </div> 
+
+<div style="text-align: center"> <strong>Friday, June 4, 2021</strong> </div> 
+
+<div style="text-align: center"> <strong>Virtually at this link: <a href="url">https://commencement.mit.edu/webcast</a> </strong> </div>
+
+<img class=grad src="/braden_grad.jpg" alt=BradenGrad1 style="width:55%">
 
 See the invite [here](https://youtu.be/dUMr4UTgVHw)
 
@@ -54,8 +65,7 @@ and grow (special shoutout to my supervisor Veevee, my teammates Juan and Jadori
 our director Daniela)
 
 ### My Church Family
-A special thank you to my church family, From the Heart Church Ministries of Cincinnati!
-Thank you all so much for your love and support!
+A special thank you to my church family, [From the Heart Church Ministries of Cincinnati](https://fromtheheartcincinnati.org)! Thank you all so much for your love and support!
 
 # What's Next?
 It's a surprise...
