@@ -22,3 +22,8 @@ Your browser does not support the audio element.
 </audio>
 
 # Second Composition - Theme and Variations for Piano
+<audio controls>
+  <source src="21M.302_Final_Project.ogg" type="audio/ogg">
+  <source src="21M.302_Final_Project.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
