@@ -2,7 +2,10 @@
 layout: default
 title: Projects
 ---
-# Fridge Buddy (Final Project 6.115 - Microcomputer Project Lab)
+
+# (Under Construction)
+
+<!--# Fridge Buddy (Final Project 6.115 - Microcomputer Project Lab)
 
 # MIT Marine Robotics Team - Designing an Autonomous Underwater Vehicle
 
@@ -12,5 +15,5 @@ title: Projects
 
 # Proyecto Final (Spanish 1)
 
-# Next Project! TBD...
+# Next Project! TBD...-->
 

@@ -67,7 +67,7 @@ our director Daniela)
 ### My Church Family
 A special thank you to my church family, [From the Heart Church Ministries of Cincinnati](https://fromtheheartcincinnati.org)! Thank you all so much for your love and support!
 
-# What's Next?
-It's a surprise...
+<!--# What's Next?
+It's a surprise...-->
 
 
