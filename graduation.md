@@ -12,7 +12,7 @@ title: Braden Cook's Graduation
     }
 </style>
 
-<h1 id="you-are-cordially-invited-to-the-mit-2021-commencement" style="text-align: center"><strong>You are cordially invited to the MIT 2021 Commencement!</strong></h1>
+<h1 id="you-are-cordially-invited-to-the-mit-2021-commencement" style="text-align: center"><strong>You are cordially invited to the 2021 MIT Commencement!</strong></h1>
 
 <div style="text-align: center"> <strong>Celebrating the Graduation of Braden Cook</strong> </div> 
 
