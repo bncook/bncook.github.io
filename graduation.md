@@ -29,10 +29,11 @@ Braden Cook (that's me!) is graduating from **Massachusetts Institute of Technol
 with a __Bachelor's of Science in Electrical Engineering and Computer Science__
 with a __Humanities Concentration in Music__.
 
-# Invitations
+# Invitations and Gifts
 <!--[Invitiation](/mit-campus.jpg)-->
-If you would like me to send you a physical graduation announcement, feel free
-to send me an email at bncook@mit.edu!
+If you would like me to send you a physical graduation announcement, or if you would
+like to send a gift feel free to send me an email at bncook@mit.edu! You can also
+send a monetary gift via CashApp ($BNCook77) or Venmo (@Braden-Cook-5).
 
 # Acknowledgements
 ### First and Foremost
