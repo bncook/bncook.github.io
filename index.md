@@ -43,7 +43,7 @@ title: Braden Cook
 
 **Hello! My name is Braden Cook, and this is my website!**
 
-<img class=profile src="/braden_grad4.jpg" alt=BradenGrad4 style="width:45%">
+<img class=profile src="images/braden_grad4.jpg" alt=BradenGrad4 style="width:45%">
 
 I am currently a graduating senior at Massachusetts Institute of Technology
 (MIT) studying Electrical Engineering and Computer Science with a humanities
@@ -58,15 +58,15 @@ me about anything on my website, feel free to send me an email at bncook@mit.edu
 
 <!--section class="features">
     <figure> 
-        <img src="/swans.jpg" alt=Swans style="width:90%">
+        <img src="images/swans.jpg" alt=Swans style="width:90%">
         <figcaption>Swans on the Charles River</figcaption>
     </figure>
     <figure>
-        <img src="/dome.jpg" alt=MITDome style="width:90%">
+        <img src="images/dome.jpg" alt=MITDome style="width:90%">
         <figcaption>MIT Dome at Night</figcaption>
     </figure>
     <figure>
-        <img src="/charles.jpg" alt=Charles style="width:90%">
+        <img src="images/charles.jpg" alt=Charles style="width:90%">
         <figcaption>Charles River and Boston Skyline</figcaption>
     </figure>
 </section--> 

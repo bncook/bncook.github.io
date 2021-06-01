@@ -32,15 +32,15 @@ pieces that I composed for my Harmony and Counterpoint Classes.
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "a3b456376fb2474a89e640cd235422ed", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "21M.301_Final_Project.pdf"}},
+			content:{location: {url: "composition_files/21M.301_Final_Project.pdf"}},
 			metaData:{fileName: "21M.301 Final Project.pdf"}
 		}, {showPageControls: true, showLeftHandPanel: false, showAnnotationTools: false, defaultViewMode: "SINGLE_PAGE"});
 	});
 </script>
 
 <audio controls>
-  <source src="21M.301_Final_Project.ogg" type="audio/ogg">
-  <source src="21M.301_Final_Project.mp3" type="audio/mpeg">
+  <source src="composition_files/21M.301_Final_Project.ogg" type="audio/ogg">
+  <source src="composition_files/21M.301_Final_Project.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -51,7 +51,7 @@ Your browser does not support the audio element.
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "a3b456376fb2474a89e640cd235422ed", divId: "adobe-dc-view-2"});
 		adobeDCView.previewFile({
-			content:{location: {url: "Dancing_with_the_Wind.pdf"}},
+			content:{location: {url: "composition_files/Dancing_with_the_Wind.pdf"}},
 			metaData:{fileName: "21M.302 Final Project.pdf"}
 		}, {showPageControls: true, showLeftHandPanel: false, showAnnotationTools: false, defaultViewMode: "SINGLE_PAGE"});
 	});
@@ -59,14 +59,14 @@ Your browser does not support the audio element.
 
 ## Theme Draft
 <audio controls>
-  <source src="21M.302_Final_Project.ogg" type="audio/ogg">
-  <source src="21M.302_Final_Project.mp3" type="audio/mpeg">
+  <source src="composition_files/21M.302_Final_Project.ogg" type="audio/ogg">
+  <source src="composition_files/21M.302_Final_Project.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 ## Final Composition (Theme with Variations)
 <audio controls>
-  <source src="Dancing_with_the_Wind.ogg" type="audio/ogg">
-  <source src="Dancing_with_the_Wind.mp3" type="audio/mpeg">
+  <source src="composition_files/Dancing_with_the_Wind.ogg" type="audio/ogg">
+  <source src="composition_files/Dancing_with_the_Wind.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>

@@ -20,7 +20,7 @@ title: Braden Cook's Graduation
 
 <div style="text-align: center"> <strong>Virtually at this link: <a href="https://commencement.mit.edu/webcast">MIT Commencement 2021</a> </strong> </div>
 
-<img class=grad src="/braden_grad.jpg" alt=BradenGrad1 style="width:65%">
+<img class=grad src="images/braden_grad.jpg" alt=BradenGrad1 style="width:65%">
 
 * * *
 
