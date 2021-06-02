@@ -18,9 +18,13 @@ title: Braden Cook's Graduation
 
 <div style="text-align: center"> <strong>Friday, June 4, 2021</strong> </div> 
 
+<div style="text-align: center"> <strong>1pm - 2pm ET</strong> </div> 
+
 <div style="text-align: center"> <strong>Virtually at this link: <a href="https://commencement.mit.edu/webcast">MIT Commencement 2021</a> </strong> </div>
 
 <img class=grad src="images/braden_grad.jpg" alt=BradenGrad1 style="width:65%">
+
+*Note: There will be a **Pre-program show from 12pm - 1pm** hosted by members of the Class of 2021 that features greetings from members of the MIT community and video glimpses of MIT life. There will also be a **Graduate Recognition Program from 2pm - 3pm** after Commencement.
 
 * * *
 
