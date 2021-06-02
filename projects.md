@@ -27,13 +27,13 @@ title: Projects
 <img class=proj src="images/fridge_buddy.jpg" alt=FridgeBuddy style="width:90%">
 
 # Designing an Autonomous Underwater Vehicle - MIT Marine Robotics Team
-<img class=proj src="images/auv.jpg" alt=MRTAUV style="width:90%">
+<img class=proj src="images/auv.JPG" alt=MRTAUV style="width:90%">
 
 # SoFi, the Soft Robotic Fish - MIT CSAIL UROP
 <img class=proj src="images/fish_head.jpg" alt=SoFi style="width:90%">
 
 # Twin Propeller Angle Control  - Final Lab 6.302 (Feedback Control Systems)
-<img class=proj src="images/twin_propellor.png" alt=TwinPropeller style="width:90%">
+<img class=proj src="images/twin_propellor.PNG" alt=TwinPropeller style="width:90%">
 
 
 <!--
