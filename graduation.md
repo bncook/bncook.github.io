@@ -35,9 +35,8 @@ with a __Humanities Concentration in Music__.
 
 # Invitations and Gifts
 <!--[Invitiation](/mit-campus.jpg)-->
-If you would like me to send you a physical graduation announcement, or if you would
-like to send a gift feel free to send me an email at bncook@mit.edu! You can also
-send a monetary gift via CashApp ($BNCook77) or Venmo (@Braden-Cook-5).
+If you would like me to send you a physical graduation announcement, feel free to send me an email at bncook@mit.edu! 
+Gifts are welcome, but not necessary. Monetary gifts can be sent via CashApp ($BNCook77) or Venmo (@Braden-Cook-5).
 
 # Acknowledgements
 ### First and Foremost
